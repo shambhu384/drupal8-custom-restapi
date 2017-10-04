@@ -1,0 +1,5 @@
+name: demo_rest_api
+type: module
+description: A demo module that creates a REST endpoint
+core: 8.x
+package: Custom
